@@ -2,7 +2,7 @@ Please run example.m. You will get the same results presented in the paper "Sche
 
 If you want to use this code, please cite the below paper.  
 
-@ARTICLE{Hu2019Scheduling,  
+@article{Hu2019Scheduling,  
 author={Hu, Biao and Cao, Zhengcai and Zhou, MengChu},  
 journal={IEEE Transactions on Cloud Computing},  
 title={Scheduling Real-Time Parallel Applications in Cloud to Minimize Energy Consumption},  
